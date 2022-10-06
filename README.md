@@ -1,4 +1,4 @@
-# Personal informations #
+# Personal Informations #
 - 👋 Hi, I’m @ertugrulsisman
 - 📐 I’m a civil engineer
 - 🌱 I’m currently learning HTML - CSS - JAVASCRİPT
