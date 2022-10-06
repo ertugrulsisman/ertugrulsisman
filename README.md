@@ -1,7 +1,7 @@
 # Personal Informations #
 - 👋 Hi, I’m @ertugrulsisman
 - 📐 I’m a civil engineer
-- 🌱 I’m currently learning HTML - CSS - JAVASCRİPT
+- 🌱 I’m currently learning HTML5 - CSS3 - JAVASCRİPT
 
 # Contact #
 - 📧 [E-Mail](mailto:semihertugrulsisman@gmail.com)
