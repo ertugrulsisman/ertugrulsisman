@@ -2,7 +2,7 @@ Personal Informations
 ===
 - 👋 Hi, I’m @ertugrulsisman
 - 📐 I’m a Civil Engineer ~ 2020 
-- 🌱 I’m a Front End Developer ~ 2015
+- 🌱 I’m a Web Developer ~ 2015
 
 Skills
 ===
